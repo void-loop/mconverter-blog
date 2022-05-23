@@ -89,7 +89,7 @@ Having quicker access to the converter PWA from other apps on Android is great, 
 
 The [File Handling API](https://github.com/WICG/file-handling/blob/main/explainer.md) is also part of Chrome’s Project Fugu to bring more capabilities to the web. It will allow an installed PWA to register as a potential handler for a file type.
 
-![“Open With…” context menu in File Explorer on Windows 10](/images/web_share_target_api/open_with_menu.webp)
+![“Open With…” context menu in File Explorer on Windows 10](open_with_menu.webp)
 
 In other words, the PWA will appear in the “Open With” menu of file managers on Windows, Mac, Linux and Chrome OS.
 
@@ -97,4 +97,4 @@ Even though it is currently only behind a developer flag, MConverter already has
 
 ---
 
-![Animation of MConverter appearing in Android's share sheet](/images/web_share_target_api/mconverter_share_android.webp)
+![Animation of MConverter appearing in Android's share sheet](mconverter_share_android.webp)
