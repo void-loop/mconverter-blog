@@ -47,7 +47,7 @@ Follow the instructions for Microsoft Edge.
 
 * #### iOS and iPadOS
 
-    Currently, Safari on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file 😩😩😩. 
+    Currently, Chrome on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file 😩😩😩. 
 
 ### Samsung Internet
 
@@ -74,11 +74,12 @@ Follow the instructions for Microsoft Edge.
 
 * #### Desktop (macOS)
 
-...
+    1. Open Safari and go to the Safari option from the top menu > Preferences > Websites > Downloads.
+    2. ???
 
 * #### iOS and iPadOS
 
-...
+    1. Currently, Safari on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file.  
 
 ### Mozilla Firefox
 
