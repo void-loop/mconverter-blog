@@ -59,7 +59,8 @@ Follow the instructions for Microsoft Edge.
 
 * #### Desktop (Windows, macOS, Linux)
 
-    ...
+    1. Open Edge and go to the three dots menu > Settings > Downloads.
+    2. Make sure **Ask me what to do with each download** is turned off.
 
 * #### Android
 
