@@ -47,12 +47,13 @@ Follow the instructions for Microsoft Edge.
 
 * #### iOS and iPadOS
 
-    ...
+    Currently, Safari on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file 😩😩😩. 
 
 ### Samsung Internet
 
-1. Open Samsung Internet and go to the hamburger menu > Settings.
-2. 
+1. Open Samsung Internet and go to the menu in the bottom right corner (three horizontal lines) > Settings.
+2. Tap on Sites and downloads.
+3. Make sure **Block automatic downloads** is disabled.
 
 ### Microsoft Edge
 
