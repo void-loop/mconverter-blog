@@ -85,7 +85,8 @@ Follow the instructions for Microsoft Edge.
 
 * #### Desktop (Windows, macOS, Linux)
 
-...
+    1. Open Mozilla Firefox and and go to the menu on the top right corner (three horizontal lines) > Settings > General > Downloads.
+    2. Make sure **Ask each time where to save a file** is turned off.
 
 * #### Android
 
