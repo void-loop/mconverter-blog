@@ -75,7 +75,7 @@ Follow the instructions for Microsoft Edge.
 * #### Desktop (macOS)
 
     1. Open Safari and go to the Safari option from the top menu > Preferences > Websites > Downloads.
-    2. ???
+    2. Tap the drop down menu **When visiting other websites** > Allow.
 
 * #### iOS and iPadOS
 
