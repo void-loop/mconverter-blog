@@ -1,8 +1,8 @@
 ---
 title: How to fix automatic downloads not working
 description: If MConverter doesn't automatically download your converted files, here are some potential solutions.
-image: easy_convert_files.webp
-image_alt: Downloads are blocked
+image: automatic_downloads_mac.jpg
+image_alt: Automatic file downloads settings in Safari on Mac
 date_added: 2022-03-19
 date_updated: 2022-03-19
 ---
