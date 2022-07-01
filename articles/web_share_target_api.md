@@ -1,6 +1,6 @@
 ---
 title: Using the Web Share Target API in File Converter PWA
-description: Allowing for a new, easier way to choose files – previously inaccessible for web apps.
+description: Allowing for a new, easier way to choose files – previously inaccessible for web apps. Learn more about the Web Share Target API and how to receive files from other apps.
 image: mconverter_share_android_static.webp
 image_alt: MConverter in Android's Share Sheet
 date_added: 2022-03-16
