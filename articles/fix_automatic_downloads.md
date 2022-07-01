@@ -52,7 +52,7 @@ Follow the instructions for Microsoft Edge.
 ### Samsung Internet
 
 1. Open Samsung Internet and go to the menu in the bottom right corner (three horizontal lines) > Settings.
-2. Tap on Sites and downloads.
+2. Tap on **[Browsing privacy dashboard](samsunginternet://settings_privacy/)**.
 3. Make sure **Block automatic downloads** is disabled.
 
 ### Microsoft Edge
