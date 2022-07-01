@@ -47,7 +47,7 @@ Follow the instructions for Microsoft Edge.
 
 * #### iOS and iPadOS
 
-    Currently, Chrome on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file 😩😩😩. 
+    Currently, Chrome on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file. 
 
 ### Samsung Internet
 
@@ -64,11 +64,13 @@ Follow the instructions for Microsoft Edge.
 
 * #### Android
 
-...
+    1. Open Microsoft Edge and go to the three dots menu > Settings > Privacy and security > Site permissions
+    2. Tap on **All sites** and search for `https://mconverter.eu`.
+    3. Make sure **Automatic downloads** is enabled.
 
 * #### iOS and iPadOS
 
-...
+    Currently, Microsoft Edge on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file. 
 
 ### Safari
 
@@ -79,7 +81,7 @@ Follow the instructions for Microsoft Edge.
 
 * #### iOS and iPadOS
 
-    1. Currently, Safari on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file.  
+    Currently, Safari on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file.  
 
 ### Mozilla Firefox
 
@@ -90,8 +92,8 @@ Follow the instructions for Microsoft Edge.
 
 * #### Android
 
-...
+    Currently, Mozilla Firefox on Android does not support automatic downloads. You need to accept manually each downloaded file.  
 
 * #### iOS and iPadOS
 
-...
+    Currently, Mozilla Firefox on iOS and iPadOS does not support automatic downloads. You need to accept manually each downloaded file.
