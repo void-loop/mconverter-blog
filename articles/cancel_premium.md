@@ -3,8 +3,8 @@ title: How to cancel MConverter Premium subscription
 description: Simple guide for unsubscribing from MConverter Premium. You'll learn how to stop your Premium from automatically renewing.
 image: mconverter_premium.webp
 image_alt: MConverter Premium badge
-date_added: 2022-03-06
-date_updated: 2022-03-06
+date_added: 2022-07-04
+date_updated: 2022-07-04
 ---
 
 At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge cancellation fees.
