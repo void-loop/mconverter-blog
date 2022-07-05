@@ -1,6 +1,6 @@
 ---
 title: How to fix automatic downloads not working
-description: If MConverter doesn't automatically download your converted files, here are some potential solutions. Read the instructions for the most popular browsers and operating systems here.
+description: If MConverter doesn't automatically download your converted files, here are some potential solutions for the most popular browsers and operating systems.
 image: automatic_downloads_mac.jpg
 image_alt: Automatic file downloads settings in Safari on Mac
 date_added: 2022-07-05
